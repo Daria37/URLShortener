@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Daria_code\\C#\\URLShortener\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Daria_code\\C#\\URLShortener\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.URLShortener.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.URLShortener.props",
+      "PackagePath": "build\\URLShortener.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.URLShortener.props",
+      "PackagePath": "buildMultiTargeting\\URLShortener.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.URLShortener.props",
+      "PackagePath": "buildTransitive\\URLShortener.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
